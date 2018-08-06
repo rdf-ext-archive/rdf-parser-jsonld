@@ -25,9 +25,9 @@
   },
   "homepage": "https://github.com/rdf-ext/rdf-parser-jsonld",
   "dependencies": {
+    "@rdfjs/data-model": "^1.1.0",
     "concat-stream": "^1.5.1",
     "jsonld": "^0.4.11",
-    "rdf-data-model": "^1.0.0",
     "rdf-sink": "^1.0.0",
     "readable-stream": "^2.2.9"
   },
