@@ -1,3 +1,5 @@
+# This package is now maintaned at the [rdfjs organisation](https://github.com/rdfjs/parser-jsonld).
+
 # rdf-parser-jsonld
 
 [![Build Status](https://travis-ci.org/rdf-ext/rdf-parser-jsonld.svg?branch=master)](https://travis-ci.org/rdf-ext/rdf-parser-jsonld)
